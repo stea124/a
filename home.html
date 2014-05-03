@@ -1,7 +1,172 @@
 <html>
 <head>
 <title>My Homepage</title>
+<style>
+title {
+color: white;
+font-family:Giddehand;
+}
 
+h1 {
+text-align: center;
+color: blue;
+font-family: Giddehand;
+font-weight:bold;
+text-decoration: underline;
+}
+
+h2 {
+text-align: center;
+color: blue;
+font-family: ActionManShaded;
+text-decoration: underline;
+}
+
+td
+{
+padding:10px;
+}
+img {
+box-shadow: 10px 10px 10px #ffffff;
+}
+body {
+background-color:#483d8b;
+}
+
+
+
+.ribbon:after, .ribbon:before {
+    margin-top:0.5em;
+    content: "";
+    float:left;
+    border:1.5em solid #fff;
+}
+
+.ribbon:after {
+    border-right-color:transparent;
+}
+
+.ribbon:before {
+    border-left-color:transparent;
+}
+
+.ribbon a:link, .ribbon a:visited { 
+    color:#000;
+    text-decoration:none;
+    float:left;
+    height:3.5em;
+    overflow:hidden;
+}
+
+@font-face {
+    font-family: 'ActionManShaded';
+    font-weight: normal;
+    font-style: normal;
+    color:blue;
+}
+
+ul li {
+    float: left;
+    list-style: none;
+    margin-right: 1em;
+    font-family: 'ActionManShaded', Chalkboard, cursive;
+    font-size: 25px;
+    padding: 12px; 
+}
+ 
+li a {
+    color: blue;
+    text-decoration: none;
+    float: left;
+}
+ 
+li a:hover {
+    color: orange;
+}
+
+li a:hover {
+    -webkit-transform: rotate(-30deg) scale(1.2);
+    -moz-transform: rotate(-30deg) scale(1.2);
+    -o-transform: rotate(-30deg) scale(1.2);
+}
+
+<ul id="nav">
+
+    <li class="left"><a href="#home.html">Home</a></li>
+    <li class="right"><a href="simplest.html">Music</a></li>
+    <li class="left"><a href="second.html">Cookies</a></li>
+    <li class="right"><a href="third.html">Photos</a></li>
+</ul>
+
+.left a:hover {
+    -webkit-transform: rotate(-30deg) scale(1.2);
+    -moz-transform: rotate(-30deg) scale(1.2);
+    -o-transform: rotate(-30deg) scale(1.2);
+}
+ 
+.right a:hover {
+    -webkit-transform: rotate(30deg) scale(1.2);
+    -moz-transform: rotate(30deg) scale(1.2);
+    -o-transform: rotate(30deg) scale(1.2);
+}
+
+.left a:hover {
+     
+    /*Transition*/
+    -webkit-transition:All .5s ease;
+    -moz-transition:All .5s ease;
+    -o-transition:All .5s ease;
+     
+    /*Transform*/
+    -webkit-transform: rotate(-10deg) scale(1.2);
+    -moz-transform: rotate(-10deg) scale(1.2);
+    -o-transform: rotate(-10deg) scale(1.2);
+}
+ 
+.right a:hover {
+ 
+    /*Transition*/
+    -webkit-transition:All .5s ease;
+    -moz-transition:All .5s ease;
+    -o-transition:All .5s ease;
+     
+    /*Transform*/
+    -webkit-transform: rotate(10deg) scale(1.2);
+    -moz-transform: rotate(10deg) scale(1.2);
+    -o-transform: rotate(10deg) scale(1.2);
+}
+
+#navbar ul { 
+	margin: 0; 
+	padding: 0px; 
+	list-style-type: none; 
+	text-align: center; 
+	background-color: #000; 
+	
+	} 
+ 
+#navbar ul li {  
+	display: inline; 
+	
+	} 
+ 
+#navbar ul li a { 
+	text-decoration: none; 
+	padding: .2em 1em; 
+	color: blue; 
+	background-color: #000099; 
+	} 
+ 
+#navbar ul li a:hover { 
+	color: orange; 
+	background-color: #483d8b; 
+	
+	} 
+	
+
+
+
+</style>
 </head>
 <body>
 <h1>My Websites</h1> 
