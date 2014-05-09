@@ -40,9 +40,9 @@ background-color:#483d8b;
 div{
     height:220px;
     width:1000px;
-    border-color: #000000;
-    Background-color:#FF99FF;
-    border-style:1px solid #000000;
+    border-color: #483d8b;
+    Background-color:#483d8b;
+    border-style:0px solid #000000;
     border-radius:1px;
     margin:2px 5px 5px 1px;
     text-align:center;
