@@ -29,7 +29,11 @@ body {
 background-color:#483d8b;
 }
 
-
+table {
+	position: align;
+	text-align: center;
+	vertical-align: center;
+}
 
 .ribbon:after, .ribbon:before {
     margin-top:0.5em;
