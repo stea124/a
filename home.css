@@ -104,10 +104,10 @@ vertical-align: center;
 #div_img
 {
 display:block;
-height:249px;
-width:30px;
+height:500px;
+width:175px;
 float:left;
-border-bottom:1px solid blue;
+border-bottom:0px solid blue;
 -webkit-transition:0.5s;
 
 } 
@@ -119,8 +119,8 @@ width:320px;
 
 .img {
 
-width:30px;
-height:239px;
+width:175;
+height:500px;
 border:0;
 -webkit-transition:0.5s;
 }
