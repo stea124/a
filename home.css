@@ -81,12 +81,14 @@ body {
     border: 1 px solid orange;
   }
 #gallery {
-padding:5px;
+padding:2px;
 margin:0;
 overflow:hidden;
 width:440px;
 height:239px;
 border:0px solid blue;
+text-align: center;
+vertical-align:middle;
 } 
 
 #div_container
