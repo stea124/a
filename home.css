@@ -43,8 +43,8 @@ div{
     width:1000px;
     border-color: #000000;
     Background-color:#000099;
-    border-style:2px solid #000000;
-    border-radius:2px;
+    border-style:0px solid #000000;
+    border-radius:0px;
     margin:2px 5px 5px 5px;
     text-align:center;
     vertical-align:middle;
@@ -62,7 +62,7 @@ list-style-type:none;
 margin:0;
 padding:0;
 color: orange;
-font-family: Giddehand;
+font-family: 3Dumb, ActionManShaded, Giddehand, HandwritingDakota;
 font-size:25px;
 padding: 1px;
 text-align: center;
@@ -174,6 +174,7 @@ li a {
  
 li a:hover {
     color: orange;
+    font-family: 3Dumb;
 }
 @font-face {
     font-family: '3Dumb';
@@ -184,7 +185,7 @@ ul li {
     float: left;
     list-style: none;
     margin-right: 1em;
-    font-family: 'ActionManShaded', helvetica, sans-serif;
+    font-family: ActionManShaded, 3Dumb, helvetica, sans-serif;
     font-size: 25px;
     padding: 12px; 
 }
