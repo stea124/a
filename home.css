@@ -96,6 +96,9 @@ height:239px;
 background-image:url();
 background-repeat:no-repeat;
 background-position:left;
+text-align:center;
+vertical-align:center;
+
 } 
 
 #div_img
@@ -162,7 +165,7 @@ ul li {
 }
  
 li a {
-    color: #544738;
+    color: orange;
     text-decoration: none;
     float: left;
     font-size: 25px;
@@ -187,13 +190,13 @@ ul li {
 }
  
 li a {
-    color: #544738;
+    color: orange;
     text-decoration: none;
     float: left;
 }
  
 li a:hover {
-    color: #7eb9be;
+    color: black;
 }
 li a:hover {
     -webkit-transform: rotate(-10deg) scale(1.2);
