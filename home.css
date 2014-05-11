@@ -86,7 +86,7 @@ margin:0;
 overflow:hidden;
 width:440px;
 height:239px;
-border:1px solid blue;
+border:0px solid blue;
 } 
 
 #div_container
@@ -95,7 +95,7 @@ width:440px;
 height:239px;
 background-image:url();
 background-repeat:no-repeat;
-background-position:left;
+background-position:center;
 text-align:center;
 vertical-align:center;
 
@@ -107,13 +107,13 @@ display:block;
 height:249px;
 width:30px;
 float:left;
-border-bottom:1px solid blue;
+border-bottom:0px solid blue;
 -webkit-transition:0.5s;
 
 } 
 
 #div_img:hover {
-background:#eee;
+background:orange;
 width:320px;
 }
 
@@ -184,7 +184,7 @@ ul li {
     float: left;
     list-style: none;
     margin-right: 1em;
-    font-family: 'KulminoituvaRegular', helvetica, sans-serif;
+    font-family: 'ActionManShaded', helvetica, sans-serif;
     font-size: 25px;
     padding: 12px; 
 }
