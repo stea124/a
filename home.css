@@ -1,3 +1,4 @@
+
 body {
 	background-color:#FF99FF;
 	background-image:url('');
@@ -39,16 +40,15 @@ background-color:#483d8b;
 
 div{
     height:220px;
-    width:100px;
-    border-color: #483d8b;
-    Background-color:#483d8b;
-    border-style:0px solid #000000;
-    border-radius:1px;
-    margin:2px 5px 5px 1px;
+    width:1000px;
+    border-color: #000000;
+    Background-color:#000099;
+    border-style:2px solid #000000;
+    border-radius:2px;
+    margin:2px 5px 5px 5px;
     text-align:center;
     vertical-align:middle;
     display: inline;
-    position: center;
 }
 a {
     text-decoration: none;
@@ -84,43 +84,40 @@ body {
 padding:5px;
 margin:0;
 overflow:hidden;
-width:100px;
-height:220px;
+width:440px;
+height:239px;
 border:1px solid blue;
 } 
 
 #div_container
 {
-width:100px;
-height:220px;
+width:440px;
+height:239px;
 background-image:url();
 background-repeat:no-repeat;
 background-position:left;
-text-align: center;
-position: center;
-vertical-align: center;
 } 
 
 #div_img
 {
 display:block;
-height:220px;
-width:100px;
+height:249px;
+width:30px;
 float:left;
-border-bottom:0px solid blue;
+border-bottom:1px solid blue;
 -webkit-transition:0.5s;
 
 } 
 
 #div_img:hover {
 background:#eee;
-width:100px;
+width:320px;
 }
 
 .img {
 
-width:100px;
-height:220px;
+width:30px;
+height:239px;
 border:0;
 -webkit-transition:0.5s;
 }
@@ -147,54 +144,4 @@ width:320px;
                 0px 0px 0px 14px #fff,
                 0px 0px 0px 18px rgba(0,0,0,0.2),
                 6px 6px 8px 17px #555;
-}
-ul.osx-dock li a {
-  display: block;
-  height: 50px;
-  padding: 0 1px;
-  margin: 0;
-  -webkit-transition: 0.15s linear;
-  -webkit-transition-property: -webkit-transform margin;
-  -webkit-box-reflect: below 2px; -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(0.45, transparent), to(rgba(255, 255, 255, 0.25)));
-}
- 
-ul.osx-dock li a img {
-  width: 48px;
-}
- 
-ul.osx-dock li:hover {
-  margin-left: 9px; margin-right: 9px;
-  z-index: 200;
-}
- 
-ul.osx-dock li:hover a {
-  -webkit-transform-origin: center bottom;
-  -webkit-transform: scale(1.5);
-}
- 
-ul.osx-dock li.nearby {
-  margin-left: 6px; margin-right: 6px;
-  z-index: 100;
-}
- 
-ul.osx-dock li.nearby a {
-  -webkit-transform-origin: center bottom;
-  -webkit-transform: scale(1.25);
-}
- 
-ul.osx-dock li span {
- background: rgba(0,0,0,0.75);
- position: absolute;
- bottom: 80px;
- margin: 0 auto;
- display: none;
- width: auto;
- font-size: 11px;
- font-weight: bold;
- padding: 3px 6px;
- -webkit-border-radius: 6px;
- color: #fff;
-}
- ul.osx-dock li:hover span {
- display: block;
 }
