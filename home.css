@@ -145,3 +145,94 @@ width:320px;
                 0px 0px 0px 18px rgba(0,0,0,0.2),
                 6px 6px 8px 17px #555;
 }
+* {
+   padding: 0;
+   margin: 0;
+}
+ 
+body {
+   background: #f4f1e5;
+   color: #544738;
+   font-family: 3Dumb, Chalkboard;
+}
+ul li {
+    float: left;
+    list-style: none;
+    margin-right: 1em; 
+}
+ 
+li a {
+    color: #544738;
+    text-decoration: none;
+    float: left;
+    font-size: 25px;
+    padding: 12px;
+}
+ 
+li a:hover {
+    color: orange;
+}
+@font-face {
+    font-family: '3Dumb';
+    font-weight: normal;
+    font-style: normal;
+}
+ul li {
+    float: left;
+    list-style: none;
+    margin-right: 1em;
+    font-family: 'KulminoituvaRegular', helvetica, sans-serif;
+    font-size: 25px;
+    padding: 12px; 
+}
+ 
+li a {
+    color: #544738;
+    text-decoration: none;
+    float: left;
+}
+ 
+li a:hover {
+    color: #7eb9be;
+}
+li a:hover {
+    -webkit-transform: rotate(-10deg) scale(1.2);
+    -moz-transform: rotate(-10deg) scale(1.2);
+    -o-transform: rotate(-10deg) scale(1.2);
+}
+.left a:hover {
+    -webkit-transform: rotate(-10deg) scale(1.2);
+    -moz-transform: rotate(-10deg) scale(1.2);
+    -o-transform: rotate(-10deg) scale(1.2);
+}
+ 
+.right a:hover {
+    -webkit-transform: rotate(10deg) scale(1.2);
+    -moz-transform: rotate(10deg) scale(1.2);
+    -o-transform: rotate(10deg) scale(1.2);
+}
+.left a:hover {
+     
+    /*Transition*/
+    -webkit-transition:All .5s ease;
+    -moz-transition:All .5s ease;
+    -o-transition:All .5s ease;
+     
+    /*Transform*/
+    -webkit-transform: rotate(-10deg) scale(1.2);
+    -moz-transform: rotate(-10deg) scale(1.2);
+    -o-transform: rotate(-10deg) scale(1.2);
+}
+ 
+.right a:hover {
+ 
+    /*Transition*/
+    -webkit-transition:All .5s ease;
+    -moz-transition:All .5s ease;
+    -o-transition:All .5s ease;
+     
+    /*Transform*/
+    -webkit-transform: rotate(10deg) scale(1.2);
+    -moz-transform: rotate(10deg) scale(1.2);
+    -o-transform: rotate(10deg) scale(1.2);
+}
