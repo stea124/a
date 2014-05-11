@@ -151,9 +151,9 @@ width:320px;
 }
  
 body {
-   background: #f4f1e5;
-   color: #544738;
-   font-family: 3Dumb, Chalkboard;
+   background: #483d8b;
+   color: #483d8b;
+   font-family: ActionManShaded, 3Dumb, HandwritingDakota, Chalkboard;
 }
 ul li {
     float: left;
