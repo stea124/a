@@ -38,7 +38,7 @@ background-color:#483d8b;
 
 
 div{
-    height:220px;
+    height:350px;
     width:1000px;
     border-color: #000000;
     Background-color:#000099;
@@ -91,16 +91,17 @@ border:0px solid blue;
 #div_container
 {
 width:440px;
-height:239px;
-background-image:url();
+height:350px;
+background-image:url(http://www.graphicsfactory.com/clip-art/image_files/tn_image/6/601866-tn_wut_05_c.jpg);
 background-repeat:no-repeat;
 background-position:left;
+opacity: 0.5;
 } 
 
 #div_img
 {
 display:block;
-height:249px;
+height:350px;
 width:30px;
 float:left;
 border-bottom:0px solid blue;
@@ -116,7 +117,7 @@ width:320px;
 .img {
 
 width:30px;
-height:239px;
+height:350px;
 border:0;
 -webkit-transition:0.5s;
 }
