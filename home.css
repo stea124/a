@@ -1,9 +1,9 @@
 body {
 	background-color:#FF99FF;
-	background-image:url('');
+	background-image:url('http://www.graphicsfactory.com/clip-art/image_files/tn_image/6/601866-tn_wut_05_c.jpg');
 	background-attachment: fixed;
 	background-position:top center;
-	background-repeat:repeat;
+	background-repeat:no-repeat;
         }
 
 title {
@@ -22,7 +22,7 @@ text-decoration: underline;
 h2 {
 text-align: center;
 color: orange;
-font-family: Finger paint;
+font-family: Fingerpaint;
 text-decoration: underline;
 }
 
@@ -83,14 +83,14 @@ body {
 padding:5px;
 margin:0;
 overflow:hidden;
-width:440px;
-height:239px;
+width:500px;
+height:350px;
 border:0px solid blue;
 } 
 
 #div_container
 {
-width:440px;
+width:500px;
 height:350px;
 background-image:url(http://www.graphicsfactory.com/clip-art/image_files/tn_image/6/601866-tn_wut_05_c.jpg);
 background-repeat:no-repeat;
@@ -102,7 +102,7 @@ opacity: 0.5;
 {
 display:block;
 height:350px;
-width:30px;
+width:50px;
 float:left;
 border-bottom:0px solid blue;
 -webkit-transition:0.5s;
@@ -111,12 +111,12 @@ border-bottom:0px solid blue;
 
 #div_img:hover {
 background:#eee;
-width:320px;
+width:500px;
 }
 
 .img {
 
-width:30px;
+width:500px;
 height:350px;
 border:0;
 -webkit-transition:0.5s;
