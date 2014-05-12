@@ -44,7 +44,7 @@ div{
     Background-color:#000099;
     border-style:0px solid #000000;
     border-radius:2px;
-    margin:2px 5px 5px 5px;
+    margin:10px 5px 5px 10px;
     text-align:center;
     vertical-align:middle;
     display: inline;
@@ -61,7 +61,7 @@ list-style-type:none;
 margin:0;
 padding:0;
 color: orange;
-font-family: Giddehand;
+font-family: 3Dumb, 2Dumb, Giddehand, HandwritingDakota, Noteworthy, AirplanesInTheNightSky, Chalkboard, cursive;
 font-size:25px;
 padding: 1px;
 text-align: center;
@@ -118,11 +118,11 @@ width:500px;
 
 width:500px;
 height:350px;
-border:0;
+border: 1px dashed blue;
 -webkit-transition:0.5s;
 }
 .img:hover {
-width:320px;
+width:500px;
 }
 - See more at: http://imajineweb.com/cssaccordion#sthash.50VvY2t1.dpuf
 
