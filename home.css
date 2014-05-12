@@ -71,6 +71,7 @@ text-align: center;
 li {
 display:inline;
 text-align: center;
+vertical-align:middle;
 padding: 1px;
 }
 
@@ -171,7 +172,7 @@ li a {
     text-decoration: none;
     float: left;
     font-size: 25px;
-    padding: 12px;
+    padding: 5px;
 }
  
 li a:hover {
@@ -199,7 +200,7 @@ li a {
 }
  
 li a:hover {
-    color: black;
+    color: blue;
 }
 li a:hover {
     -webkit-transform: rotate(-10deg) scale(1.2);
