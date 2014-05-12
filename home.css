@@ -1,4 +1,3 @@
-
 body {
 	background-color:#FF99FF;
 	background-image:url('');
@@ -41,10 +40,10 @@ background-color:#483d8b;
 div{
     height:220px;
     width:1000px;
-    border-color: ;
+    border-color: #000000;
     Background-color:#000099;
     border-style:0px solid #000000;
-    border-radius:0px;
+    border-radius:2px;
     margin:2px 5px 5px 5px;
     text-align:center;
     vertical-align:middle;
@@ -62,7 +61,7 @@ list-style-type:none;
 margin:0;
 padding:0;
 color: orange;
-font-family: 3Dumb, ActionManShaded, Giddehand, HandwritingDakota;
+font-family: Giddehand;
 font-size:25px;
 padding: 1px;
 text-align: center;
@@ -71,7 +70,6 @@ text-align: center;
 li {
 display:inline;
 text-align: center;
-vertical-align:middle;
 padding: 1px;
 }
 
@@ -79,17 +77,15 @@ padding: 1px;
 
 body {
     text-align: center;
-    border: 1 px solid orange;
+    border: 0px solid orange;
   }
 #gallery {
-padding:2px;
+padding:5px;
 margin:0;
 overflow:hidden;
 width:440px;
 height:239px;
 border:0px solid blue;
-text-align: center;
-vertical-align:middle;
 } 
 
 #div_container
@@ -98,10 +94,7 @@ width:440px;
 height:239px;
 background-image:url();
 background-repeat:no-repeat;
-background-position:center;
-text-align:center;
-vertical-align:center;
-
+background-position:left;
 } 
 
 #div_img
@@ -116,7 +109,7 @@ border-bottom:0px solid blue;
 } 
 
 #div_img:hover {
-background:blue;
+background:#eee;
 width:320px;
 }
 
@@ -150,96 +143,4 @@ width:320px;
                 0px 0px 0px 14px #fff,
                 0px 0px 0px 18px rgba(0,0,0,0.2),
                 6px 6px 8px 17px #555;
-}
-* {
-   padding: 0;
-   margin: 0;
-}
- 
-body {
-   background: #483d8b;
-   color: #483d8b;
-   font-family: ActionManShaded, 3Dumb, HandwritingDakota, Chalkboard;
-}
-ul li {
-    float: left;
-    list-style: none;
-    margin-right: 1em; 
-}
- 
-li a {
-    color: orange;
-    text-decoration: none;
-    float: left;
-    font-size: 25px;
-    padding: 5px;
-}
- 
-li a:hover {
-    color: orange;
-    font-family: 3Dumb;
-}
-@font-face {
-    font-family: '3Dumb';
-    font-weight: normal;
-    font-style: normal;
-}
-ul li {
-    float: left;
-    list-style: none;
-    margin-right: 1em;
-    font-family: ActionManShaded, 3Dumb, helvetica, sans-serif;
-    font-size: 25px;
-    padding: 12px; 
-}
- 
-li a {
-    color: orange;
-    text-decoration: none;
-    float: left;
-}
- 
-li a:hover {
-    color: blue;
-}
-li a:hover {
-    -webkit-transform: rotate(-10deg) scale(1.2);
-    -moz-transform: rotate(-10deg) scale(1.2);
-    -o-transform: rotate(-10deg) scale(1.2);
-}
-.left a:hover {
-    -webkit-transform: rotate(-10deg) scale(1.2);
-    -moz-transform: rotate(-10deg) scale(1.2);
-    -o-transform: rotate(-10deg) scale(1.2);
-}
- 
-.right a:hover {
-    -webkit-transform: rotate(10deg) scale(1.2);
-    -moz-transform: rotate(10deg) scale(1.2);
-    -o-transform: rotate(10deg) scale(1.2);
-}
-.left a:hover {
-     
-    /*Transition*/
-    -webkit-transition:All .5s ease;
-    -moz-transition:All .5s ease;
-    -o-transition:All .5s ease;
-     
-    /*Transform*/
-    -webkit-transform: rotate(-10deg) scale(1.2);
-    -moz-transform: rotate(-10deg) scale(1.2);
-    -o-transform: rotate(-10deg) scale(1.2);
-}
- 
-.right a:hover {
- 
-    /*Transition*/
-    -webkit-transition:All .5s ease;
-    -moz-transition:All .5s ease;
-    -o-transition:All .5s ease;
-     
-    /*Transform*/
-    -webkit-transform: rotate(10deg) scale(1.2);
-    -moz-transform: rotate(10deg) scale(1.2);
-    -o-transform: rotate(10deg) scale(1.2);
 }
