@@ -1,0 +1,142 @@
+
+/* @font-face definitions */
+
+@font-face {
+  font-family: 'KulminoituvaRegular';
+  src: url('../fonts/kulminoituva.eot');
+  src: local('Kulminoituva Regular'), local('Kulminoituva'), url('../fonts/kulminoituva.woff') format('woff'), url('../fonts/kulminoituva.ttf') format('truetype'), url('../fonts/kulminoituva.svg#Kulminoituva') format('svg');
+font-size: 15px;
+}
+
+@font-face {
+  font-family: 'NotethisRegular';
+  src: url('../fonts/Note_this.eot');
+  src: local('Note this Regular'), local('Notethis'), url('../fonts/Note_this.woff') format('woff'), url('../fonts/Note_this.ttf') format('truetype'), url('../fonts/Note_this.svg#Notethis') format('svg');
+font-size:15px;
+}
+
+/* General styling */
+
+body {
+  background:#202020;
+  font-family: NotethisRegular, Verdana, Arial, sans-serif;
+  font-size:125%;
+  color:#ffffff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: KulminoituvaRegular, "Arial Black", Gadget, sans-serif;
+  font-size:1.5em;
+}
+
+#wrapper {
+  width:760px;
+  margin:0 auto;
+  text-align:center;
+  padding-top:50px;
+}
+/* Index Card Styling */
+  
+ul#index_cards {
+  margin-top:50px;
+  text-align:center;
+}
+  
+ul#index_cards li {
+  height:600px;
+  width:250px;
+  display:blcok;
+  float:left;
+  border:1px solid #666;
+  padding:25px 10px;
+    background-color:#32CD32;
+    font-size: 15px;
+    text-align: center;
+    vertical-align: middle;
+    
+    
+
+  position:relative;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-box-shadow: 2px 2px 10px #000;
+  -webkit-box-shadow: 2px 2px 10px #000;
+  -moz-transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+}
+#card-1 {
+  -webkit-transform: rotate(-15deg);
+  -moz-transform: rotate(-20deg);
+  z-index:1;
+  left:150px;
+  top:40px;
+    background-color:#ffa07a;
+
+}
+  
+#card-2 {
+  -webkit-transform: rotate(-10deg);
+  -moz-transform: rotate(-10deg);
+  z-index:2;
+  left:70px;
+  top:10px;
+    background-color:#ffa07a;
+
+}
+  
+#card-3 {
+  background-color:#ffa07a;
+  z-index:3;
+  -webkit-transform: rotate(-5deg);
+  -moz-transform: rotate(-5deg);
+}
+  
+#card-4 {
+  -webkit-transform: rotate(-5deg);
+  -moz-transform: rotate(10deg);
+  z-index:2;
+  right:70px;
+  top:10px;
+    background-color:#ffa07a;
+
+}
+  
+#card-5 {
+  -webkit-transform: rotate(20deg);
+  -moz-transform: rotate(20deg);
+  z-index:1;
+  right:150px;
+  top:40px;
+    background-color:#ffa07a;
+
+}
+/* Hover States */
+  
+ul#index_cards li:hover {
+  z-index:4;
+}
+  
+#card-1:hover {
+  -moz-transform: scale(1.1) rotate(-10deg);
+     -webkit-transform: scale(1.1) rotate(-10deg); 
+}
+    
+#card-2:hover {
+  -moz-transform: scale(1.1) rotate(-4deg);
+   -webkit-transform: scale(1.1) rotate(-4deg); 
+}
+  
+#card-3:hover {
+  -moz-transform: scale(1.1) rotate(10deg);
+   -webkit-transform: scale(1.1) rotate(10deg); 
+}
+  
+#card-4:hover {
+  -moz-transform: scale(1.1) rotate(12deg);
+   -webkit-transform: scale(1.1) rotate(12deg); 
+}
+  
+#card-5:hover {
+  -moz-transform: scale(1.1) rotate(22deg);
+   -webkit-transform: scale(1.1) rotate(22deg); 
+}
