@@ -25,6 +25,12 @@ div div {background: #A4CA39; position: relative;}
 	-moz-border-radius: 10px;
 	-webkit-border-radius: 10px;
 }
+table {
+	postion: center;
+	text-align:center;
+	vertical-align:middle;
+	
+}
 .l_eye {left: 50px;}
 .r_eye {right: 50px;}
 
