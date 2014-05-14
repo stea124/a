@@ -1,65 +1,29 @@
-body {
-    background: #B2CCCC;
+@import url(http://fonts.googleapis.com/css?family=Gloria+Hallelujah);
+* { box-sizing:border-box; }
+body { background:url(http://subtlepatterns.com/patterns/little_pluses.png) #cacaca; margin:30px; }
+
+textarea  { 
+	display: block;
+	padding:25px 25px 40px;
+	margin:0 auto 20px auto;
+	width:250px;
+	height:250px;   
+	font:20px 'Gloria Hallelujah', cursive; 
+	line-height:1.5;
+	border:0;
+	border-radius:3px;
+	background: -webkit-linear-gradient(#F9EFAF, #F7E98D);
+	background: -moz-linear-gradient(#F9EFAF, #F7E98D);
+	background: -o-linear-gradient(#F9EFAF, #F7E98D);
+	background: -ms-linear-gradient(#F9EFAF, #F7E98D);
+	background: linear-gradient(#F9EFAF, #F7E98D);
+	box-shadow:0 4px 6px rgba(0,0,0,0.1);
+	overflow:hidden;
+	transition:box-shadow 0.5s ease;
+	font-smoothing:subpixel-antialiased;
+	max-width:520px;
+	max-height:250px;
 }
 
-#notes li {
-    position: relative;
-    width: 300px;
-    min-height: 100px;
-    margin: 25px auto;
-    padding: 60px 15px 15px 15px;
-    background: #fff url();
-    background-color:#FFFF99;
-    -webkit-box-shadow: 0 2px 12px rgba(0,0,0,.5);
-    -moz-box-shadow: 0 2px 12px rgba(0,0,0,.5);
-    box-shadow: 0 1px 2px #000;
-    -webkit-transform: rotate(-.5deg);
-    -moz-transform: rotate(-.5deg);
-    -o-transform: rotate(-.5deg);
-}
-
-#notes li:nth-child(even) {
-    -webkit-transform: rotate(.5deg);
-    -moz-transform: rotate(.5deg);
-    -o-transform: rotate(.5deg);
-}
-
-#notes li.kiln
-{
-    background-image: url();
-    background-color: #FFFF99;
-}
-
-#notes li p {
-    text-align: center;
-   
-    font: normal normal normal 40px/48px 'Gloria Hallelujah' , Angelina, HandwritingDakota, Giddehand, Noteworthy, 'ActionManShaded','Reenie Beanie', Helvetica, Arial, sans-serif;
-    color: #000;
-    text-shadow: white 1px 1px 0px;
-    overflow:hidden;
-}
-
-#notes li::before {
-    content: ' ';
-    display: block;
-    position: absolute;
-    left: 115px;
-    top: -15px;
-    width: 75px;
-    height: 25px;
-    z-index: 2;
-    background-color: rgba(243,245,228,0.5);
-    border: 2px solid rgba(255,255,255,0.5);
-    -webkit-box-shadow: 0 0 5px #888;
-    -moz-box-shadow: 0 0 5px #888;
-    box-shadow: 2px 2px 2px #000;
-    -webkit-transform: rotate(-6deg);
-    -moz-transform: rotate(-6deg);
-    -o-transform: rotate(-6deg);
-}
-
-#notes li:nth-child(even)::before {
-    -webkit-transform: rotate(6deg);
-    -moz-transform: rotate(6deg);
-    -o-transform: rotate(6deg);
-}
+textarea:hover { box-shadow:0 5px 8px rgba(0,0,0,0.15); }
+textarea:focus { box-shadow:0 5px 12px rgba(0,0,0,0.2); outline:none; }
