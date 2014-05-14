@@ -29,6 +29,7 @@ table {
 	postion: center;
 	text-align:center;
 	vertical-align:middle;
+	colspan:1;
 	
 }
 .l_eye {left: 50px;}
