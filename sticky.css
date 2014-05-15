@@ -154,10 +154,10 @@ body { background:url(http://www.wall-hd.com/wp-content/uploads/2014/05/corkboar
 	padding-bottom:5px;
 	border-radius:3px;
 	background: -webkit-linear-gradient(purple, purple);
-	background: -moz-linear-gradient(purple, pink);
-	background: -o-linear-gradient(purple, pink);
-	background: -ms-linear-gradient(purple, pink);
-	background: linear-gradient(purple, pink);
+	background: -moz-linear-gradient(purple, white);
+	background: -o-linear-gradient(purple, white);
+	background: -ms-linear-gradient(purple, white);
+	background: linear-gradient(purple, white);
 	box-shadow:0 4px 6px rgba(0,0,0,0.1);
 	
 	overflow:hidden;
