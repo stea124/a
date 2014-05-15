@@ -4,7 +4,7 @@ body { background:url(http://www.wall-hd.com/wp-content/uploads/2014/05/corkboar
 
 
 textarea  { 
-	display: inline;
+	display: block;
 	padding:25px 25px 40px;
 	margin:0 auto 20px auto;
 	width:300px;
