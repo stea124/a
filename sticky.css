@@ -3,33 +3,7 @@
 body { background:url(http://www.wall-hd.com/wp-content/uploads/2014/05/corkboard-wallpaper-3.jpg); #cacaca; margin:30px; }
 
 
-textarea  { 
-	display: block;
-	padding:25px 25px 40px;
-	margin:0 auto 20px auto;
-	width:300px;
-	height:400px;   
-	font:20px 'Gloria Hallelujah', cursive; 
-	line-height:1.5;
-	border:0;
-	margin: 5px 5px 5px 5px;
-	padding-right:10px;
-	padding-left:5px;
-	padding-top:5px;
-	padding-bottom:5px;
-	border-radius:3px;
-	background: -webkit-linear-gradient(#F9EFAF, #F7E98D);
-	background: -moz-linear-gradient(#F9EFAF, #F7E98D);
-	background: -o-linear-gradient(#F9EFAF, #F7E98D);
-	background: -ms-linear-gradient(#F9EFAF, #F7E98D);
-	background: linear-gradient(#F9EFAF, #F7E98D);
-	box-shadow:0 4px 6px rgba(0,0,0,0.1);
-	overflow:hidden;
-	transition:box-shadow 0.5s ease;
-	font-smoothing:subpixel-antialiased;
-	max-width:520px;
-	max-height:250px;
-}
+
 #bible {
 		display: block;
 	padding:25px 25px 40px;
@@ -47,8 +21,8 @@ textarea  {
 	background: -webkit-linear-gradient(red, red);
 	background: -moz-linear-gradient(red, orange);
 	background: -o-linear-gradient(red, orange);
-	background: -ms-linear-gradient(red, orange);
-	background: linear-gradient(red, orange);
+	background: -ms-linear-gradient(red, yellow);
+	background: linear-gradient(red, white);
 	box-shadow:0 4px 6px rgba(0,0,0,0.1);
 	overflow:hidden;
 	transition:box-shadow 0.5s ease;
@@ -109,33 +83,7 @@ textarea  {
 	max-width:520px;
 	max-height:250px;
 }
-#art 
-{
-		display: block;
-	padding:25px 25px 40px;
-	margin:0 auto 20px auto;
-	width:250px;
-	height:250px;   
-	font:20px 'Gloria Hallelujah', cursive; 
-	line-height:1.5;
-	border:0;
-	padding-right:10px;
-	padding-left:5px;
-	padding-top:5px;
-	padding-bottom:5px;
-	border-radius:3px;
-	background: -webkit-linear-gradient(green, green);
-	background: -moz-linear-gradient(green,blue);
-	background: -o-linear-gradient(green, blue);
-	background: -ms-linear-gradient(green, blue);
-	background: linear-gradient(green, blue);
-	box-shadow:0 4px 6px rgba(0,0,0,0.1);
-	overflow:hidden;
-	transition:box-shadow 0.5s ease;
-	font-smoothing:subpixel-antialiased;
-	max-width:520px;
-	max-height:250px;
-}
+
 #english{
 		display: block;
 	padding:25px 25px 40px;
