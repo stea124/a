@@ -12,6 +12,10 @@ textarea  {
 	font:20px 'Gloria Hallelujah', cursive; 
 	line-height:1.5;
 	border:0;
+	padding-right:5px;
+	padding-left:5px;
+	padding-top:5px;
+	padding-bottom:5px;
 	border-radius:3px;
 	background: -webkit-linear-gradient(#F9EFAF, #F7E98D);
 	background: -moz-linear-gradient(#F9EFAF, #F7E98D);
