@@ -30,7 +30,30 @@ textarea  {
 	max-height:250px;
 }
 #bible {
-	background-color: red;
+		display: block;
+	padding:25px 25px 40px;
+	margin:0 auto 20px auto;
+	width:250px;
+	height:250px;   
+	font:20px 'Gloria Hallelujah', cursive; 
+	line-height:1.5;
+	border:0;
+	padding-right:10px;
+	padding-left:5px;
+	padding-top:5px;
+	padding-bottom:5px;
+	border-radius:3px;
+	background: -webkit-linear-gradient(red, red);
+	background: -moz-linear-gradient(red, red);
+	background: -o-linear-gradient(red, red);
+	background: -ms-linear-gradient(red, red);
+	background: linear-gradient(red, red);
+	box-shadow:0 4px 6px rgba(0,0,0,0.1);
+	overflow:hidden;
+	transition:box-shadow 0.5s ease;
+	font-smoothing:subpixel-antialiased;
+	max-width:520px;
+	max-height:250px;
 }
 textarea:hover { box-shadow:0 5px 8px rgba(0,0,0,0.15); }
 textarea:focus { box-shadow:0 5px 12px rgba(0,0,0,0.2); outline:none; }
