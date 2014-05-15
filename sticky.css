@@ -100,7 +100,7 @@ textarea  {
 	background: -moz-linear-gradient(yellow, green);
 	background: -o-linear-gradient(yellow, green);
 	background: -ms-linear-gradient(yellow, green);
-	background: linear-gradient(orange, yellow);
+	background: linear-gradient(yellow, green);
 	box-shadow:0 4px 6px rgba(0,0,0,0.1);
 	overflow:hidden;
 	transition:box-shadow 0.5s ease;
@@ -110,32 +110,6 @@ textarea  {
 }
 #art 
 {
-		display: block;
-	padding:25px 25px 40px;
-	margin:0 auto 20px auto;
-	width:250px;
-	height:250px;   
-	font:20px 'Gloria Hallelujah', cursive; 
-	line-height:1.5;
-	border:0;
-	padding-right:10px;
-	padding-left:5px;
-	padding-top:5px;
-	padding-bottom:5px;
-	border-radius:3px;
-	background: -webkit-linear-gradient(orange, orange);
-	background: -moz-linear-gradient(orange, yellow);
-	background: -o-linear-gradient(orange, yellow);
-	background: -ms-linear-gradient(orange, yellow);
-	background: linear-gradient(orange, yellow);
-	box-shadow:0 4px 6px rgba(0,0,0,0.1);
-	overflow:hidden;
-	transition:box-shadow 0.5s ease;
-	font-smoothing:subpixel-antialiased;
-	max-width:520px;
-	max-height:250px;
-}
-#english{
 		display: block;
 	padding:25px 25px 40px;
 	margin:0 auto 20px auto;
@@ -161,8 +135,7 @@ textarea  {
 	max-width:520px;
 	max-height:250px;
 }
-#history
-{
+#english{
 		display: block;
 	padding:25px 25px 40px;
 	margin:0 auto 20px auto;
@@ -188,7 +161,7 @@ textarea  {
 	max-width:520px;
 	max-height:250px;
 }
-#math
+#history
 {
 		display: block;
 	padding:25px 25px 40px;
@@ -215,7 +188,7 @@ textarea  {
 	max-width:520px;
 	max-height:250px;
 }
-#tech 
+#math
 {
 		display: block;
 	padding:25px 25px 40px;
@@ -235,6 +208,33 @@ textarea  {
 	background: -o-linear-gradient(pink, black);
 	background: -ms-linear-gradient(pink, grey);
 	background: linear-gradient(pink, white);
+	box-shadow:0 4px 6px rgba(0,0,0,0.1);
+	overflow:hidden;
+	transition:box-shadow 0.5s ease;
+	font-smoothing:subpixel-antialiased;
+	max-width:520px;
+	max-height:250px;
+}
+#tech 
+{
+		display: block;
+	padding:25px 25px 40px;
+	margin:0 auto 20px auto;
+	width:250px;
+	height:250px;   
+	font:20px 'Gloria Hallelujah', cursive; 
+	line-height:1.5;
+	border:0;
+	padding-right:10px;
+	padding-left:5px;
+	padding-top:5px;
+	padding-bottom:5px;
+	border-radius:3px;
+	background: -webkit-linear-gradient(white, white);
+	background: -moz-linear-gradient(white, pink);
+	background: -o-linear-gradient(white, red);
+	background: -ms-linear-gradient(white, red);
+	background: linear-gradient(white, red);
 	box-shadow:0 4px 6px rgba(0,0,0,0.1);
 	overflow:hidden;
 	transition:box-shadow 0.5s ease;
