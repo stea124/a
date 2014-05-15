@@ -29,6 +29,8 @@ textarea  {
 	max-width:520px;
 	max-height:250px;
 }
-
+#bible {
+	background-color: red;
+}
 textarea:hover { box-shadow:0 5px 8px rgba(0,0,0,0.15); }
 textarea:focus { box-shadow:0 5px 12px rgba(0,0,0,0.2); outline:none; }
