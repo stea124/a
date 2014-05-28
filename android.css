@@ -1,6 +1,10 @@
 div {margin: o; padding: 0;}
 div div {background: #A4CA39; position: relative;}
-
+h3 p{
+	font-family: Giddehand ;
+	color: blue;
+	size:15px;
+}
 .android{
 	height: 404px; width: 334px;
 	margin: 100px auto;
