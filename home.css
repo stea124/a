@@ -27,18 +27,7 @@ text-decoration: none;
 
 
 
-body {
-background-color:#483d8b;
-}
 
-
-
-span {
-	font-family:Chalkboard;
-	font-size:25px;
-	text-align: center;
-	
-}
 
 .button {
 	position:inline;
@@ -61,11 +50,7 @@ border: solid #888888 1px;
    margin: 0;
 }
 
-body {
-   background: #888888;
-   color: #000099;
-   font-family: Noteworthy; Chalkboard; ComicSans,  helvetica, sans-serif;
-}
+
 
 @font-face {
     font-family: 'KulminoituvaRegular';
