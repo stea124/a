@@ -7,13 +7,13 @@ body {
 
 title {
 color: orange;
-font-family: Casual, Giddehand, HandwritingDakota, BroadwayCopyistText, Chalkduster, Notworthy, Chalkboard, cursive;
+font-family: Giddehand, Chalkduster, Notworthy, Chalkboard, cursive;
 }
 
 h1 {
 text-align: center;
 color: orange;
-font-family: Casual, Eraser, HandwritingDakota, Giddehand, Noteworthy, Chalkboard, Chalkduster,  cursive;
+font-family: Giddehand, Chalkduster, Notworthy, Chalkboard, cursive;
 font-weight:bold;
 text-decoration: underline;
 }
@@ -21,7 +21,8 @@ text-decoration: underline;
 h2 {
 text-align: center;
 color: orange;
-font-family: Casual;
+font-family: font-family: Giddehand, Chalkduster, Notworthy, Chalkboard, cursive;
+
 text-decoration: none;
 }
 
@@ -56,7 +57,7 @@ ul li {
     float: left;
     list-style: none;
     margin-right: 1em;
-    font-family: 'Londrina Outline', cursive;
+font-family: Giddehand, Chalkduster, Notworthy, Chalkboard, cursive;
     padding: 12px; 
     text-align:center;
 }
@@ -126,8 +127,7 @@ body { background:url(http://www.cuzzsoft.com/wallbank/161-black-background-meta
 	margin:0 auto 20px auto;
 	width:250px;
 	height:250px;   
-	font:20px 'Gloria Ha	font-family: 'Londrina Outline', cursive;
-llelujah', cursive; 
+font-family: Giddehand, Chalkduster, Notworthy, Chalkboard, cursive;
 	line-height:1.5;
 	border:0;
 	padding-right:10px;
@@ -156,7 +156,7 @@ llelujah', cursive;
 	margin:0 auto 20px auto;
 	width:250px;
 	height:250px;   
-	font-family: 'Londrina Outline', cursive;
+font-family: Giddehand, Chalkduster, Notworthy, Chalkboard, cursive;
 	line-height:1.5;
 	border:0;
 	padding-right:10px;
@@ -184,7 +184,7 @@ max-width:1000px;
 	margin:0 auto 20px auto;
 	width:250px;
 	height:250px;   
-	font-family: 'Londrina Outline', cursive;
+font-family: Giddehand, Chalkduster, Notworthy, Chalkboard, cursive;
 	line-height:1.5;
 	border:0;
 	padding-right:10px;
@@ -213,7 +213,7 @@ max-width:1000px;
 	margin:0 auto 20px auto;
 	width:250px;
 	height:250px;   
-	font-family: 'Londrina Outline', cursive;
+font-family: Giddehand, Chalkduster, Notworthy, Chalkboard, cursive;
 	line-height:1.5;
 	border:0;
 	padding-right:10px;
@@ -242,7 +242,7 @@ max-width:1000px;
 	margin:0 auto 20px auto;
 	width:250px;
 	height:250px;   
-	font-family: 'Londrina Outline', cursive;
+font-family: Giddehand, Chalkduster, Notworthy, Chalkboard, cursive;
 	line-height:1.5;
 	border:0;
 	padding-right:10px;
@@ -272,7 +272,7 @@ max-width:1000px;
 	margin:0 auto 20px auto;
 	width:250px;
 	height:250px;   
-	font-family: 'Londrina Outline', cursive;
+font-family: Giddehand, Chalkduster, Notworthy, Chalkboard, cursive;
 	line-height:1.5;
 	border:0;
 	padding-right:10px;
@@ -302,7 +302,7 @@ max-width:1000px;
 	margin:0 auto 20px auto;
 	width:250px;
 	height:250px;   
-	font-family: 'Londrina Outline', cursive;
+font-family: Giddehand, Chalkduster, Notworthy, Chalkboard, cursive;
 	line-height:1.5;
 	border:0;
 	padding-right:10px;
