@@ -81,10 +81,11 @@ ul li {
     font-family: 'KulminoituvaRegular', helvetica, sans-serif;
     font-size: 25px;
     padding: 12px; 
+    text-align:center;
 }
  
 li a {
-    color: #544738;
+    color: orange;
     text-decoration: none;
     float: left;
 }
