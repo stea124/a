@@ -44,7 +44,7 @@ span {
 	position:inline;
 	padding: 10px 20px 10px 20px;
 	margin: 10px 20px 10px 20pxpx;
-	height: 10px;
+	height: 25px;
 	width:100px;
 background-color:orange;
 border: solid #888888 1px;
@@ -85,7 +85,7 @@ ul li {
 }
  
 li a {
-    color: orange;
+    color: #000099;
     text-decoration: none;
     float: left;
 }
