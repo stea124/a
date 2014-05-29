@@ -40,7 +40,10 @@ body {
 background-color:#483d8b;
 }
 
-
+img {
+ text-shadow: 1px 1px 0 rgba(0,0,0,0.25);
+    box-shadow: 0 1px 0 rgba(255,255,255, 0.3), inset 0 1px 0 rgba(255,255,255, 0.3);
+}
 
 div{
     height:220px;
