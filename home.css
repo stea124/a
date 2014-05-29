@@ -7,13 +7,13 @@ body {
 
 title {
 color: orange;
-font-family:Giddehand, Handwriting Dakota, Broadway Copyist Text, Chalkduster, Notworthy, Chalkboard, cursive;
+font-family: Casual, Giddehand, HandwritingDakota, BroadwayCopyistText, Chalkduster, Notworthy, Chalkboard, cursive;
 }
 
 h1 {
 text-align: center;
 color: orange;
-font-family: Eraser, Handwriting Dakota, Giddehand, Noteworthy, Chalkboard, Chalkduster,  cursive;
+font-family: Casual, Eraser, HandwritingDakota, Giddehand, Noteworthy, Chalkboard, Chalkduster,  cursive;
 font-weight:bold;
 text-decoration: underline;
 }
@@ -21,7 +21,7 @@ text-decoration: underline;
 h2 {
 text-align: center;
 color: orange;
-font-family: Fingerpaint;
+font-family: Casual;
 text-decoration: none;
 }
 
@@ -56,7 +56,7 @@ ul li {
     float: left;
     list-style: none;
     margin-right: 1em;
-    font-family: font-family: 'Londrina Outline', cursive;
+    font-family: 'Londrina Outline', cursive;
     padding: 12px; 
     text-align:center;
 }
