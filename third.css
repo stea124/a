@@ -3,7 +3,7 @@ body {
 	background-image:url('http://www.hdwallpapers.in/thumbs/annas_hummingbird-t1.jpg');
 	background-attachment: fixed;
 	background-position:top center;
-	background-repeat:repeat;
+	background-repeat:no-repeat;
         }
 
 title {
