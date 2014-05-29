@@ -39,6 +39,9 @@ background-color:#483d8b;
 
 
 .button {
+	position:inline;
+	padding: 10px 10px 10px 10px;
+	margin: 10px 10px 10px 15px;
 	height: 10px;
 	width:100px;
 background-color:orange;
