@@ -1,7 +1,6 @@
 body {
 	background-color:#FF99FF;
-	background-image:url('http://www.hdwallpapers.in/thumbs/annas_hummingbird-t1.jpg');
-	background-attachment:absolute;
+	background-attachment:fixed;
 	background-position:middle center;
 	background-repeat:no-repeat;
         }
