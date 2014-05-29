@@ -8,14 +8,14 @@ body {
 title {
 color: orange;
 font-family: Giddehand, Chalkduster, Notworthy, Chalkboard, cursive;
-font-size: 15px;
+font-size: 25px;
 }
 
 h1 {
 text-align: center;
 color: orange;
 font-family: Giddehand, Chalkduster, Notworthy, Chalkboard, cursive;
-font-size: 15px;
+font-size: 25px;
 font-weight:bold;
 text-decoration: underline;
 }
@@ -24,7 +24,7 @@ h2 {
 text-align: center;
 color: orange;
 font-family: font-family: Giddehand, Chalkduster, Notworthy, Chalkboard, cursive;
-font-size: 15px;
+font-size: 25px;
 
 text-decoration: none;
 }
@@ -61,7 +61,7 @@ ul li {
     list-style: none;
     margin-right: 1em;
 font-family: Giddehand, Chalkduster, Notworthy, Chalkboard, cursive;
-font-size: 15px;
+font-size: 25px;
 
     padding: 12px; 
     text-align:center;
@@ -70,6 +70,9 @@ font-size: 15px;
 li a {
     color: #000099;
     text-decoration: none;
+    font-size: 25px;
+font-size: 25px;
+
     float: left;
 }
  
@@ -135,6 +138,8 @@ body { background:url(http://www.cuzzsoft.com/wallbank/161-black-background-meta
 	font-size: 15px;
 
 font-family: Giddehand, Chalkduster, Notworthy, Chalkboard, cursive;
+font-size: 25px;
+
 	line-height:1.5;
 	border:0;
 	padding-right:10px;
@@ -165,6 +170,8 @@ font-family: Giddehand, Chalkduster, Notworthy, Chalkboard, cursive;
 	height:250px;   
 font-family: Giddehand, Chalkduster, Notworthy, Chalkboard, cursive;
 	line-height:1.5;
+	font-size: 25px;
+
 	border:0;
 	padding-right:10px;
 	padding-left:5px;
@@ -194,6 +201,8 @@ max-width:1000px;
 	font-size: 15px;
 
 font-family: Giddehand, Chalkduster, Notworthy, Chalkboard, cursive;
+font-size: 25px;
+
 	line-height:1.5;
 	border:0;
 
@@ -220,6 +229,8 @@ max-width:1000px;
 	width:250px;
 	height:250px;   
 font-family: Giddehand, Chalkduster, Notworthy, Chalkboard, cursive;
+font-size: 25px;
+
 font-size: 15px;
 
 	line-height:1.5;
@@ -251,6 +262,8 @@ font-size: 15px;
 	width:250px;
 	height:250px;   
 font-family: Giddehand, Chalkduster, Notworthy, Chalkboard, cursive;
+font-size: 25px;
+
 font-size: 15px;
 
 	line-height:1.5;
@@ -283,6 +296,8 @@ max-width:1000px;
 	width:250px;
 	height:250px;   
 font-family: Giddehand, Chalkduster, Notworthy, Chalkboard, cursive;
+font-size: 25px;
+
 font-size: 15px;
 
 	line-height:1.5;
@@ -315,6 +330,8 @@ max-width:1000px;
 	width:250px;
 	height:250px;   
 font-family: Giddehand, Chalkduster, Notworthy, Chalkboard, cursive;
+font-size: 25px;
+
 font-size: 15px;
 
 	line-height:1.5;
