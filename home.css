@@ -36,12 +36,17 @@ background-color:#483d8b;
 
 
 
-
+span {
+	font-family:Chalkboard;
+	font-size:15px;
+	text-align: center;
+	
+}
 
 .button {
 	position:inline;
-	padding: 10px 10px 10px 10px;
-	margin: 10px 10px 10px 15px;
+	padding: 10px 20px 10px 20px;
+	margin: 10px 20px 10px 20pxpx;
 	height: 10px;
 	width:100px;
 background-color:orange;
