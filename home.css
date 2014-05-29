@@ -91,6 +91,8 @@ body { background:url(http://www.cuzzsoft.com/wallbank/161-black-background-meta
 	font-smoothing:subpixel-antialiased;
 	max-width:520px;
 	max-height:250px;
+	border: solid #888888 1px;
+    border-radius: 5px;
 }
 #chinese 
 {
@@ -118,6 +120,8 @@ body { background:url(http://www.cuzzsoft.com/wallbank/161-black-background-meta
 	font-smoothing:subpixel-antialiased;
 	max-width:520px;
 	max-height:250px;
+	border: solid #888888 1px;
+    border-radius: 5px;
 }
 #science{
 		display: block;
@@ -144,6 +148,8 @@ body { background:url(http://www.cuzzsoft.com/wallbank/161-black-background-meta
 	font-smoothing:subpixel-antialiased;
 	max-width:520px;
 	max-height:250px;
+	border: solid #888888 1px;
+    border-radius: 5px;
 }
 
 #english{
@@ -171,6 +177,8 @@ body { background:url(http://www.cuzzsoft.com/wallbank/161-black-background-meta
 	font-smoothing:subpixel-antialiased;
 	max-width:520px;
 	max-height:250px;
+	border: solid #888888 1px;
+    border-radius: 5px;
 }
 #history
 {
@@ -199,6 +207,8 @@ body { background:url(http://www.cuzzsoft.com/wallbank/161-black-background-meta
 	font-smoothing:subpixel-antialiased;
 	max-width:520px;
 	max-height:250px;
+	border: solid #888888 1px;
+    border-radius: 5px;
 }
 #math
 {
@@ -227,6 +237,8 @@ body { background:url(http://www.cuzzsoft.com/wallbank/161-black-background-meta
 	font-smoothing:subpixel-antialiased;
 	max-width:520px;
 	max-height:250px;
+	border: solid #888888 1px;
+    border-radius: 5px;
 }
 #tech 
 {
@@ -254,6 +266,8 @@ body { background:url(http://www.cuzzsoft.com/wallbank/161-black-background-meta
 	font-smoothing:subpixel-antialiased;
 	max-width:520px;
 	max-height:250px;
+	border: solid #888888 1px;
+    border-radius: 5px;
 }
 textarea:hover { box-shadow:0 5px 8px rgba(0,0,0,0.15); }
 textarea:focus { box-shadow:0 5px 12px rgba(0,0,0,0.2); outline:none; }
