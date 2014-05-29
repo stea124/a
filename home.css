@@ -89,10 +89,10 @@ body { background:url(http://www.cuzzsoft.com/wallbank/161-black-background-meta
 	overflow:hidden;
 	transition:box-shadow 0.5s ease;
 	font-smoothing:subpixel-antialiased;
-	max-width:520px;
-	max-height:250px;
-	border: solid #888888 1px;
-    border-radius: 5px;
+	max-width:1000px;
+	max-height:500px;
+	border: solid #000000 1px;
+    border-radius: 15px;
 }
 #chinese 
 {
@@ -118,10 +118,10 @@ body { background:url(http://www.cuzzsoft.com/wallbank/161-black-background-meta
 	overflow:hidden;
 	transition:box-shadow 0.5s ease;
 	font-smoothing:subpixel-antialiased;
-	max-width:520px;
-	max-height:250px;
-	border: solid #888888 1px;
-    border-radius: 5px;
+max-width:1000px;
+	max-height:500px;
+	border: solid #000000 1px;
+    border-radius: 15px;
 }
 #science{
 		display: block;
@@ -146,10 +146,10 @@ body { background:url(http://www.cuzzsoft.com/wallbank/161-black-background-meta
 	overflow:hidden;
 	transition:box-shadow 0.5s ease;
 	font-smoothing:subpixel-antialiased;
-	max-width:520px;
-	max-height:250px;
-	border: solid #888888 1px;
-    border-radius: 5px;
+max-width:1000px;
+	max-height:500px;
+	border: solid #000000 1px;
+    border-radius: 15px;
 }
 
 #english{
@@ -175,10 +175,10 @@ body { background:url(http://www.cuzzsoft.com/wallbank/161-black-background-meta
 	overflow:hidden;
 	transition:box-shadow 0.5s ease;
 	font-smoothing:subpixel-antialiased;
-	max-width:520px;
-	max-height:250px;
-	border: solid #888888 1px;
-    border-radius: 5px;
+	max-width:1000px;
+	max-height:500px;
+	border: solid #000000 1px;
+    border-radius: 15px;
 }
 #history
 {
@@ -205,10 +205,10 @@ body { background:url(http://www.cuzzsoft.com/wallbank/161-black-background-meta
 	overflow:hidden;
 	transition:box-shadow 0.5s ease;
 	font-smoothing:subpixel-antialiased;
-	max-width:520px;
-	max-height:250px;
-	border: solid #888888 1px;
-    border-radius: 5px;
+max-width:1000px;
+	max-height:500px;
+	border: solid #000000 1px;
+    border-radius: 15px;
 }
 #math
 {
@@ -235,10 +235,10 @@ body { background:url(http://www.cuzzsoft.com/wallbank/161-black-background-meta
 	overflow:hidden;
 	transition:box-shadow 0.5s ease;
 	font-smoothing:subpixel-antialiased;
-	max-width:520px;
-	max-height:250px;
-	border: solid #888888 1px;
-    border-radius: 5px;
+max-width:1000px;
+	max-height:500px;
+	border: solid #000000 1px;
+    border-radius: 15px;
 }
 #tech 
 {
@@ -264,10 +264,10 @@ body { background:url(http://www.cuzzsoft.com/wallbank/161-black-background-meta
 	overflow:hidden;
 	transition:box-shadow 0.5s ease;
 	font-smoothing:subpixel-antialiased;
-	max-width:520px;
-	max-height:250px;
-	border: solid #888888 1px;
-    border-radius: 5px;
+	max-width:1000px;
+	max-height:500px;
+	border: solid #000000 1px;
+    border-radius: 15px;
 }
 textarea:hover { box-shadow:0 5px 8px rgba(0,0,0,0.15); }
 textarea:focus { box-shadow:0 5px 12px rgba(0,0,0,0.2); outline:none; }
