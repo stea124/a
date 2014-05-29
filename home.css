@@ -7,13 +7,13 @@ body {
 
 title {
 color: orange;
-font-family:Giddehand;
+font-family:Giddehand, Handwriting Dakota, Broadway Copyist Text, Chalkduster, Notworthy, Chalkboard, cursive;
 }
 
 h1 {
 text-align: center;
 color: orange;
-font-family: Eraser;
+font-family: Eraser, Handwriting Dakota, Giddehand, Noteworthy, Chalkboard, Chalkduster,  cursive;
 font-weight:bold;
 text-decoration: underline;
 }
@@ -52,19 +52,11 @@ border: solid #888888 1px;
 
 
 
-@font-face {
-    font-family: 'KulminoituvaRegular';
-    src: url('kulminoituva-webfont.eot');
-    src: local('‚ò∫'), url('kulminoituva-webfont.woff') format('woff'), url('kulminoituva-webfont.ttf') format('truetype'), url('kulminoituva-webfont.svg#webfontHNAi9IoX') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
 ul li {
     float: left;
     list-style: none;
     margin-right: 1em;
-    font-family: 'KulminoituvaRegular', helvetica, sans-serif;
-    font-size: 25px;
+    font-family: font-family: 'Londrina Outline', cursive;
     padding: 12px; 
     text-align:center;
 }
@@ -123,7 +115,7 @@ li a:hover {
     -o-transform: rotate(10deg) scale(1.2);
 }
 
-@import url(http://fonts.googleapis.com/css?family=Gloria+Hallelujah);
+@import url(http://fonts.googleapis.com/css?family=Londrina+Outline);
 * { box-sizing:border-box; }
 body { background:url(http://www.cuzzsoft.com/wallbank/161-black-background-metal-hole-small-i-wallpaper.jpg); #cacaca; margin:30px; }
 
@@ -134,7 +126,8 @@ body { background:url(http://www.cuzzsoft.com/wallbank/161-black-background-meta
 	margin:0 auto 20px auto;
 	width:250px;
 	height:250px;   
-	font:20px 'Gloria Hallelujah', cursive; 
+	font:20px 'Gloria Ha	font-family: 'Londrina Outline', cursive;
+llelujah', cursive; 
 	line-height:1.5;
 	border:0;
 	padding-right:10px;
@@ -163,7 +156,7 @@ body { background:url(http://www.cuzzsoft.com/wallbank/161-black-background-meta
 	margin:0 auto 20px auto;
 	width:250px;
 	height:250px;   
-	font:20px 'Gloria Hallelujah', cursive; 
+	font-family: 'Londrina Outline', cursive;
 	line-height:1.5;
 	border:0;
 	padding-right:10px;
@@ -191,7 +184,7 @@ max-width:1000px;
 	margin:0 auto 20px auto;
 	width:250px;
 	height:250px;   
-	font:20px 'Gloria Hallelujah', cursive; 
+	font-family: 'Londrina Outline', cursive;
 	line-height:1.5;
 	border:0;
 	padding-right:10px;
@@ -220,7 +213,7 @@ max-width:1000px;
 	margin:0 auto 20px auto;
 	width:250px;
 	height:250px;   
-	font:20px 'Gloria Hallelujah', cursive; 
+	font-family: 'Londrina Outline', cursive;
 	line-height:1.5;
 	border:0;
 	padding-right:10px;
@@ -249,7 +242,7 @@ max-width:1000px;
 	margin:0 auto 20px auto;
 	width:250px;
 	height:250px;   
-	font:20px 'Gloria Hallelujah', cursive; 
+	font-family: 'Londrina Outline', cursive;
 	line-height:1.5;
 	border:0;
 	padding-right:10px;
@@ -279,7 +272,7 @@ max-width:1000px;
 	margin:0 auto 20px auto;
 	width:250px;
 	height:250px;   
-	font:20px 'Gloria Hallelujah', cursive; 
+	font-family: 'Londrina Outline', cursive;
 	line-height:1.5;
 	border:0;
 	padding-right:10px;
@@ -309,7 +302,7 @@ max-width:1000px;
 	margin:0 auto 20px auto;
 	width:250px;
 	height:250px;   
-	font:20px 'Gloria Hallelujah', cursive; 
+	font-family: 'Londrina Outline', cursive;
 	line-height:1.5;
 	border:0;
 	padding-right:10px;
