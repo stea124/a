@@ -1,0 +1,59 @@
+body {
+
+	background: -webkit-linear-gradient(#0000ff, indigo, violet, white);
+	background: -moz-linear-gradient(blue, indigo, violet, pink, white);
+	background: -o-linear-gradient(blue, indigo, violet, pink, white);
+	background: -ms-linear-gradient(blue, indigo, violet, pink, white);
+
+}
+p {
+font-family:Synchro LET;
+color: #000000;
+text-indent:30px;
+}
+
+h2 {
+font-family:Synchro LET;
+color: #000000;
+text-align: center;
+font-size: 50px;
+}
+
+div {
+	margin:0 auto 20px auto;
+	width:600px;
+	height:500px;   
+	font:20px monospace; 
+	line-height:2;
+	border:2px solid black;
+	padding: 25px 50px 50px 50px;
+	border-radius:50px;
+	background: -webkit-linear-gradient(#0000ff, indigo, violet, white);
+	background: -moz-linear-gradient(blue, indigo, violet, pink, white);
+	background: -o-linear-gradient(blue, indigo, violet, pink, white);
+	background: -ms-linear-gradient(blue, indigo, violet, pink, white);
+	box-shadow:0 4px 6px rgba(0,0,0,0.1);
+	overflow:hidden;
+	transition:box-shadow 0.5s ease;
+	font-smoothing:subpixel-antialiased;
+	
+}
+div {
+ 
+	}
+
+
+table {
+border: none;
+margin-left:auto;
+margin-right:auto;
+}
+td {
+padding: 25px 25px 25px 25px;
+}
+
+span {
+line-height:1;
+font-family:Synchro LET;
+
+}
