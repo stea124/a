@@ -1,5 +1,5 @@
 div {margin: o; padding: 0;}
-div div {background: #664cc5; position: relative;}
+div div {background: #A5C63B; position: relative;}
 h3 p{
 	font-family: Giddehand ;
 	color: blue;
@@ -10,7 +10,7 @@ h3 p{
   width:200px;
   height:200px;
   margin:180px auto;
-  background: #7eb9b3;
+  background: #A5C63B;
   border-radius:0px 0px 50px 50px;
   transition: all .25s ease-out;
   -webkit-transition: all .25s ease-out;
@@ -20,7 +20,7 @@ h3 p{
 }
 .head{
 position:absolute;
-background: #7eb9b3;
+background: #A5C63B;
 left:0px;
 top:-100px;
 width:200px;
@@ -75,7 +75,7 @@ border-radius:200px 200px 0px 0px;
   height:18px;
   top:35px;
   left:50px;
-  background: #888;
+  background: #fff;
   border-radius:15px;
 }
 .eye-right{
@@ -183,7 +183,7 @@ border-radius:200px 200px 0px 0px;
   height:40px;
   top:-25px;
   left:50px;
-  background: #7eb9b3;
+  background: #A5C63B;
   border-radius:5px;
   transform:rotate(-25deg);
   -webkit-transform:rotate(-25deg);
@@ -290,7 +290,7 @@ animation:animated-robot-ear-right 5s ease 1s infinite alternate;
   height:150px;
   top:6px;
   left:-52px;
-  background: #7eb9b3;
+  background: #A5C63B;
   border-radius:44px;
 
 }
@@ -407,7 +407,7 @@ animation:animated-robot-ear-right 5s ease 1s infinite alternate;
   height:110px;
   bottom:-120px;
   left:40px;
-  background: #7eb9b3;
+  background: #A5C63B;
   border-radius:44px;
 }
 
